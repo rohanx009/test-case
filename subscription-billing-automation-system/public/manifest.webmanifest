@@ -1,0 +1,31 @@
+{
+  "id": "/",
+  "name": "Subscription Billing Automation System",
+  "short_name": "SubBill",
+  "description": "Enterprise SaaS subscription management, proration calculator, GST invoicing, dunning retry queue, and RBAC analytics platform.",
+  "theme_color": "#020617",
+  "background_color": "#f8fafc",
+  "display": "standalone",
+  "start_url": "/",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

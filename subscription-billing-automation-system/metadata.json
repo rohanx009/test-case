@@ -1,0 +1,6 @@
+{
+  "name": "Subscription Billing Automation System",
+  "description": "Enterprise SaaS subscription management, proration calculator, GST invoicing, dunning retry queue, and RBAC analytics platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
